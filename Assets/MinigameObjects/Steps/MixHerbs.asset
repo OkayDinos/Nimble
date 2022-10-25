@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e097d095884fa14439226bfdb9a067d0, type: 3}
+  m_Name: MixHerbs
+  m_EditorClassIdentifier: 
+  me_StepLocation: 2
+  me_StepType: 3
+  me_StepIngredient: 5
+  mr_Object: {fileID: 11400000, guid: 901dcb905a27ca2479323cbcc5d6dfef, type: 2}
+  mr_Extra: {fileID: 11400000, guid: 754c163db1665964aa0180a90a11d1cf, type: 2}
+  mr_Extra2: {fileID: 11400000, guid: e37eeba891c441f478a51f861f41d8a2, type: 2}
+  ms_HelpTextKeyboard: Add in herbs
+  ms_HelpTextGamepad: Add in herbs
+  ms_HelpIconKeyboard: 8
+  ms_HelpIconGamepad: 12
+  m2_CutZoneStartOffset: {x: 0, y: 0}
+  m2_CutZoneEndOffset: {x: 0, y: 0}
+  mf_SoupLevel: 2
+  mb_IsLastStir: 0
+  mb_AddFire: 0

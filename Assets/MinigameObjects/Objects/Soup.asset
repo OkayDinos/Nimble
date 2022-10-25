@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524daffae0d97f5499a3a2798876f956, type: 3}
+  m_Name: Soup
+  m_EditorClassIdentifier: 
+  mc_Default: {fileID: 21300000, guid: 439e12eeb4761b644b9f21cb24d2e7f2, type: 3}
+  mc_Mashed: {fileID: 0}
+  mc_Cut: {fileID: 0}
+  mc_Cut2: {fileID: 0}
+  mc_MashedFried: {fileID: 0}
+  mc_Levels:
+  - {fileID: 21300000, guid: bc709a2c65327584ab13f6c4898ab453, type: 3}
+  - {fileID: 21300000, guid: ec36596237de72148805c0abc7be185a, type: 3}
+  - {fileID: 21300000, guid: cf33ed182090c2f40abd28263bc0404d, type: 3}
+  - {fileID: 21300000, guid: 82a74f8400ffe1348a878039632a53f5, type: 3}
+  - {fileID: 21300000, guid: 1b1c03a9f329ec243a3d54c2c9fe3259, type: 3}
+  - {fileID: 21300000, guid: 31eb4e2b066228044b4326f542bb726c, type: 3}
+  - {fileID: 21300000, guid: 0633036fe9169fd46930714eb91f6435, type: 3}
+  - {fileID: 21300000, guid: 439e12eeb4761b644b9f21cb24d2e7f2, type: 3}
+  mf_DefaultSize: 2.9
+  mb_IsCut: 0
+  mb_IsCut2: 0
+  mb_IsMashed: 0
+  mb_IsFried: 0
+  mi_Layer: 3
+  m2_ScreenOffset: {x: 0.8, y: -0.1}

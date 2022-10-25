@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e097d095884fa14439226bfdb9a067d0, type: 3}
+  m_Name: SliceBread
+  m_EditorClassIdentifier: 
+  me_StepLocation: 3
+  me_StepType: 0
+  me_StepIngredient: 3
+  mr_Object: {fileID: 11400000, guid: 9b3a007c69498e14bb935f3073f65b56, type: 2}
+  mr_Extra: {fileID: 0}
+  mr_Extra2: {fileID: 0}
+  ms_HelpTextKeyboard: Drag to slice bread
+  ms_HelpTextGamepad: and drag left stick to slice bread
+  ms_HelpIconKeyboard: 8
+  ms_HelpIconGamepad: 3
+  m2_CutZoneStartOffset: {x: 0.5, y: 0.75}
+  m2_CutZoneEndOffset: {x: 0.5, y: 0.25}
+  mf_SoupLevel: 0
+  mb_IsLastStir: 0
+  mb_AddFire: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c65d95bb7a9519143b1c60afa92ef964, type: 3}
+  m_Name: Gutting
+  m_EditorClassIdentifier: 
+  mr_steps:
+  - {fileID: 11400000, guid: 24ef5e1abc221c74e8ab9e0fc3384b19, type: 2}
+  mc_Final: {fileID: 21300000, guid: ea4cbd2777911be44be47b02ddb6bb10, type: 3}
+  mc_FinalExtra: {fileID: 0}

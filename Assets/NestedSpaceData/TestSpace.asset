@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a71da67c446039f4ea8c1455293467ea, type: 3}
+  m_Name: TestSpace
+  m_EditorClassIdentifier: 
+  NestedSpaceSceneIndex: 2
+  NestedSpaceSortingLayerName: 2
+  ExitSortingLayerName: 4
+  NestedSpaceLocationLayer: 4
+  ExitLocationLayer: 0
+  NestedSpaceName: Home
+  ExitName: Dove Street
+  ExitSortingLayer: DoveRoadPlayer
+  NestedSortingLayer: DoveHousesPlayer
+  NestedSpacePlayerZPos: 8
+  ExitPlayerZPos: 6

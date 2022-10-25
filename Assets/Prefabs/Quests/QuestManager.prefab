@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &779663128572221485
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 779663128572221487}
+  - component: {fileID: 779663128572221484}
+  m_Layer: 0
+  m_Name: QuestManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &779663128572221487
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 779663128572221485}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.16602775, y: 8.22318, z: -23.35439}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &779663128572221484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 779663128572221485}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deb0c080e612ef248a51e341185931ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questList:
+  - mi_id: 1
+    QuestType: 0
+    ItemData: {fileID: 0}
+    ItemAmount: 0
+    mc_Progress: 0
+    ms_questObjective: Talk to Mum Outside
+    mi_nextQuest: 2
+  - mi_id: 2
+    QuestType: 0
+    ItemData: {fileID: 0}
+    ItemAmount: 0
+    mc_Progress: 0
+    ms_questObjective: Speak to the Curer at the Lower Harbour
+    mi_nextQuest: 3
+  - mi_id: 3
+    QuestType: 0
+    ItemData: {fileID: 0}
+    ItemAmount: 0
+    mc_Progress: 0
+    ms_questObjective: Let Mum know you've signed up
+    mi_nextQuest: 4
+  - mi_id: 4
+    QuestType: 0
+    ItemData: {fileID: 0}
+    ItemAmount: 0
+    mc_Progress: 0
+    ms_questObjective: Find the Kist in your Room
+    mi_nextQuest: 5
+  - mi_id: 5
+    QuestType: 0
+    ItemData: {fileID: 0}
+    ItemAmount: 0
+    mc_Progress: 0
+    ms_questObjective: Speak to Gran
+    mi_nextQuest: 6
+  - mi_id: 6
+    QuestType: 0
+    ItemData: {fileID: 0}
+    ItemAmount: 0
+    mc_Progress: 0
+    ms_questObjective: Get House Job from Mum
+    mi_nextQuest: 7
+  - mi_id: 7
+    QuestType: 0
+    ItemData: {fileID: 0}
+    ItemAmount: 0
+    mc_Progress: 0
+    ms_questObjective: Gather Shellfish at the harbour wall
+    mi_nextQuest: 8
+  - mi_id: 8
+    QuestType: 0
+    ItemData: {fileID: 0}
+    ItemAmount: 0
+    mc_Progress: 0
+    ms_questObjective: Talk to the food Vendor and get ingredients for Cullen Skink
+    mi_nextQuest: 9
+  - mi_id: 9
+    QuestType: 1
+    ItemData: {fileID: 11400000, guid: 2eb3d9838e37ec742b8970cc21ebdbe9, type: 2}
+    ItemAmount: 1
+    mc_Progress: 0
+    ms_questObjective: Get some Toato
+    mi_nextQuest: 10
+  - mi_id: 10
+    QuestType: 1
+    ItemData: {fileID: 11400000, guid: 05f9c044abf0aa647869d0b4cc1f0229, type: 2}
+    ItemAmount: 1
+    mc_Progress: 0
+    ms_questObjective: Get some Onions
+    mi_nextQuest: 11
+  - mi_id: 11
+    QuestType: 1
+    ItemData: {fileID: 11400000, guid: 524957986110ff74d8b0f2a8848805fb, type: 2}
+    ItemAmount: 1
+    mc_Progress: 0
+    ms_questObjective: Get some Bread
+    mi_nextQuest: 12
+  - mi_id: 12
+    QuestType: 0
+    ItemData: {fileID: 0}
+    ItemAmount: 0
+    mc_Progress: 0
+    ms_questObjective: Travel to the lower harbour to get some Fresh fish
+    mi_nextQuest: 13
+  - mi_id: 13
+    QuestType: 0
+    ItemData: {fileID: 0}
+    ItemAmount: 0
+    mc_Progress: 0
+    ms_questObjective: Learn how to cook Cullen Skink with mum
+    mi_nextQuest: 14
+  - mi_id: 14
+    QuestType: 0
+    ItemData: {fileID: 0}
+    ItemAmount: 0
+    mc_Progress: 0
+    ms_questObjective: Speak to Family at the dinner table
+    mi_nextQuest: 15
+  - mi_id: 15
+    QuestType: 0
+    ItemData: {fileID: 0}
+    ItemAmount: 0
+    mc_Progress: 0
+    ms_questObjective: Level Complete (Off to the Ceilidh)
+    mi_nextQuest: 16
+  currentQuestList: []
+  mg_GO: {fileID: 0}

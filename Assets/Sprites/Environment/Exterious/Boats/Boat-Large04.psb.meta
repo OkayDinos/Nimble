@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: cbeedea07b73b624e93ad02a13f66b64
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Sails up
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2972
+      width: 1716
+      height: 1478
+    spriteID: 9ea9b5d42b996e7438fedac80b37568f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -241, y: 2544}
+  - name: BoatName
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3560
+      y: 4
+      width: 303
+      height: 87
+    spriteID: e0217224a17b45a4c90b553db7f7891f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2015, y: -299}
+  - name: Hull
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1728
+      y: 4
+      width: 1824
+      height: 283
+    spriteID: c734dc93c9d2cde478faa595d48cd3c8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1616, y: -206}
+  - name: Pullys
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4311
+      width: 1452
+      height: 1114
+    spriteID: 28d16a0bc45a0e740a96defba9eb74a3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -368, y: 3951}
+  - name: RopesSailsUp
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1491
+      width: 1657
+      height: 1473
+    spriteID: a656ab8ca338e404aa6d9f02bfc1cb04
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -261, y: 1129}
+  - name: MainMasts
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6406
+      width: 925
+      height: 1569
+    spriteID: 2dbb1e9c024fd994d95c4a905b39ca85
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -594, y: 6140}
+  - name: SecondaryMastsSailsUp
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5433
+      width: 1565
+      height: 965
+    spriteID: 1a6dbc543f11a404a90ec8d84bfcc3f0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -207, y: 4560}
+  - name: RopesSailsDown
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1716
+      height: 1479
+    spriteID: b5bbf6669fe61fa4088b68366dc8f7e7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -195, y: -352}
+  - name: SecondaryMastsSailsDown
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1728
+      y: 295
+      width: 1749
+      height: 152
+    spriteID: f106fb96f34051c4e80fc108eb2b0d31
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1605, y: -252}
+  - name: SailsDown
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7983
+      width: 1709
+      height: 139
+    spriteID: 6919fb84277bb514cb4e2a76035f62f1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -144, y: 7441}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 2048, y: 2048}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: BoatName
+    spriteName: BoatName
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e0217224a17b45a4c90b553db7f7891f
+    layerID: 40
+    mosaicPosition: {x: 3560, y: 4}
+  - name: Hull
+    spriteName: Hull
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c734dc93c9d2cde478faa595d48cd3c8
+    layerID: 39
+    mosaicPosition: {x: 1728, y: 4}
+  - name: Pullys
+    spriteName: Pullys
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 28d16a0bc45a0e740a96defba9eb74a3
+    layerID: 38
+    mosaicPosition: {x: 4, y: 4311}
+  - name: RopesSailsDown
+    spriteName: RopesSailsDown
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b5bbf6669fe61fa4088b68366dc8f7e7
+    layerID: 37
+    mosaicPosition: {x: 4, y: 4}
+  - name: RopesSailsUp
+    spriteName: RopesSailsUp
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a656ab8ca338e404aa6d9f02bfc1cb04
+    layerID: 36
+    mosaicPosition: {x: 4, y: 1491}
+  - name: MainMasts
+    spriteName: MainMasts
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2dbb1e9c024fd994d95c4a905b39ca85
+    layerID: 35
+    mosaicPosition: {x: 4, y: 6406}
+  - name: SecondaryMastsSailsDown
+    spriteName: SecondaryMastsSailsDown
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f106fb96f34051c4e80fc108eb2b0d31
+    layerID: 34
+    mosaicPosition: {x: 1728, y: 295}
+  - name: SecondaryMastsSailsUp
+    spriteName: SecondaryMastsSailsUp
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1a6dbc543f11a404a90ec8d84bfcc3f0
+    layerID: 33
+    mosaicPosition: {x: 4, y: 5433}
+  - name: SailsDown
+    spriteName: SailsDown
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6919fb84277bb514cb4e2a76035f62f1
+    layerID: 32
+    mosaicPosition: {x: 4, y: 7983}
+  - name: Sails up
+    spriteName: Sails up
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ea9b5d42b996e7438fedac80b37568f
+    layerID: 31
+    mosaicPosition: {x: 4, y: 2972}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Boat-Large04 Texture
+  prefabAssetName: Boat-Large04 Prefab
+  spriteLibAssetName: Boat-Large04 Sprite Lib
+  secondarySpriteTextures: []

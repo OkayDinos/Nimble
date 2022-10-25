@@ -1,0 +1,46 @@
+﻿title: Vendor1Selling
+tags:
+---
+Chandler: How may I help you?
+Mags: I am looking for a few items
+Chandler: Why not have a look at what I have got?
+
+===
+
+title: Vendor1Thanks
+tags:
+---
+Chandler: Thank you very much for your business.
+Chandler: Have a nice day.
+
+===
+
+title: Vendor1NoThanks
+tags: 
+---
+Chandler: Thank you very much for your time.
+Chandler: Have a nice day.
+
+===
+
+title: Vendor2Selling
+tags:
+---
+FoodVendor: I've got fresh goods! what would you like?
+
+===
+
+title: Vendor2Thanks
+tags:
+---
+FoodVendor: Thank you for your business!
+
+===
+
+title: Vendor2NoThanks
+tags: 
+---
+FoodVendor: Thank you very much for your time.
+FoodVendor: Come back anytime!
+
+===
